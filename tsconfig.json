@@ -1,4 +1,3 @@
-
 {
   "compilerOptions": {
     "target": "ES2020",
@@ -19,8 +18,7 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./*"]
-    },
-    "types": ["node"]
+    }
   },
   "include": ["**/*.ts", "**/*.tsx", "env.d.ts"],
   "exclude": ["node_modules"]
